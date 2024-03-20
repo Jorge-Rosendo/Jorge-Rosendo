@@ -17,6 +17,10 @@
   Busco a habilidade técnica para codar de olhos fechados, compreender a funcionalidade para criar experiências digitais excepcionais, produzir cada vez mais códigos maleáveis e limpos para cada vez mais ser um profissional melhor.
 </h4>
 <hr>  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosendo-dev&layout=compact&theme=swift&hide_border=true" />
+</p>
+  <hr>
 <h3 align="center">Tecnologias de Desenvolvimento que tenho aptidão:</h3> 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
