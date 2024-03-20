@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-rosendo/">
-    <img src="https://img.shields.io/badge/-Jorge%20Rosendo-326324?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Jorge Rosendo-0b63bd.svg?style=for-the-badge&logo=linkedin&logoColor=blue%22"/>
   </a>
   <a href="mailto:rosendojorgelucas@gmail.com">
-    <img src="https://img.shields.io/badge/-rosendojorgelucas@gmail.com-326324?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+     <img alt="Gmail" src="https://img.shields.io/badge/rosendojorgelucas@gmail.com-e94134.svg?style=for-the-badge&logo=googlemessages&logoColor=white%22"/>
   </a>
 </p>
 <hr>
