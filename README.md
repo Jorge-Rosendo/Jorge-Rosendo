@@ -31,6 +31,7 @@
     <img alt="React" src="https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=react&logoColor=babyblue%22"/> 
     <img alt="NextJs" src="https://img.shields.io/badge/Next.Js-black.svg?style=for-the-badge&logo=next.js&logoColor=white"/> 
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=lightgreen"/>
+     <img alt="Jest" src="https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white"/>
   
   <br> 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
