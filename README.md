@@ -1,5 +1,5 @@
-<h1 align="center">Olá! 👋 Jorge Lucas aqui, amante da tecnologia!</h1>
-<h4 align="center">Me capacitando como dev frontend e mobile</h4>  
+<h1 align="center">Olá! Meu nome é Jorge Lucas 👋</h1>
+<h4 align="center">Me capacitando como QA engineer</h4>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-rosendo/">
