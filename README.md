@@ -2,7 +2,7 @@
 <h4 align="center">Me capacitando como QA engineer</h4>  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jorge-rosendo/">
+  <a href="https://www.linkedin.com/in/jorge-rosendo/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Jorge Rosendo-0b63bd.svg?style=for-the-badge&logo=linkedin&logoColor=blue%22"/>
   </a>
   <a href="mailto:rosendojorgelucas@gmail.com">
