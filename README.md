@@ -11,11 +11,11 @@
 </p>
 <hr>
 <h4 align="center">
- "Dedicado a alcançar meus sonhos com a tecnologia!" Essa foi a frase que decidi levar para me motivar nos estudos.
-</h4>
-<h4 align="center">
-  Determinado e cativado pelos desafios de resolver problemas, embarquei nos estudos focado no desenvolvimento frontend e tenho planos de expandir meu conhecimento para o desenvolvimento mobile. 
-  Busco a habilidade técnica para codar de olhos fechados, compreender a funcionalidade para criar experiências digitais excepcionais, produzir cada vez mais códigos maleáveis e limpos para cada vez mais ser um profissional melhor.
+ Estou iniciando minha jornada na área de Quality Assurance (QA) com o objetivo de me tornar um QA Engineer. Atualmente, estou me dedicando ao estudo de testes de software, controle de qualidade e automação de testes, aprendendo ferramentas como Cypress.
+
+Tenho uma forte paixão por garantir o sucesso de tarefas que confiam a mim, identificando e corrigindo erros que possam comprometer o desempenho. Sou curioso e detalhista, na TI estou sempre buscando entender o funcionamento de sistemas e encontrar maneiras de otimizá-los.
+
+Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplicar e expandir meus conhecimentos em testes manuais e automatizados, contribuindo para a entrega de software de alta qualidade.
 </h4>
 <hr>  
 <p align="center">
@@ -31,7 +31,8 @@
     <img alt="React" src="https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=react&logoColor=babyblue%22"/> 
     <img alt="NextJs" src="https://img.shields.io/badge/Next.Js-black.svg?style=for-the-badge&logo=next.js&logoColor=white"/> 
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=lightgreen"/>
-     <img alt="Jest" src="https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white"/>
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white"/>
+    <img alt="Cypress" src="https://img.shields.io/badge/cypress-lightblue.svg?style=for-the-badge&logo=jest&logoColor=black"/>
   
   <br> 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
