@@ -30,6 +30,8 @@ Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplic
   <hr>
 <h3 align="center">Tecnologias de Desenvolvimento que tenho aptidão:</h3> 
 <p align="center">
+    <img alt="Cypress" src="https://img.shields.io/badge/cypress-lightblue.svg?style=for-the-badge&logo=jest&logoColor=black"/>
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -37,10 +39,6 @@ Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplic
     <img alt="React" src="https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=react&logoColor=babyblue%22"/> 
     <img alt="NextJs" src="https://img.shields.io/badge/Next.Js-black.svg?style=for-the-badge&logo=next.js&logoColor=white"/> 
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=lightgreen"/>
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white"/>
-    <img alt="Cypress" src="https://img.shields.io/badge/cypress-lightblue.svg?style=for-the-badge&logo=jest&logoColor=black"/>
-  
-  <br> 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
