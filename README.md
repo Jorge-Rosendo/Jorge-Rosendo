@@ -11,7 +11,8 @@
 </p>
 <hr>
 <h4 align="center">
- Estou iniciando minha jornada na área de Quality Assurance (QA) com o objetivo de me tornar um QA Engineer. Atualmente, estou me dedicando ao estudo de testes de software, controle de qualidade e automação de testes, aprendendo ferramentas como Cypress.
+ Estou iniciando minha jornada na área de Quality Assurance (QA) com o objetivo de me tornar um QA Engineer. 
+ Atualmente, estou me dedicando ao estudo de testes de software, controle de qualidade e automação de testes, aprendendo ferramentas como Cypress.
 
 Tenho uma forte paixão por garantir o sucesso de tarefas que confiam a mim, identificando e corrigindo erros que possam comprometer o desempenho. Sou curioso e detalhista, na TI estou sempre buscando entender o funcionamento de sistemas e encontrar maneiras de otimizá-los.
 
