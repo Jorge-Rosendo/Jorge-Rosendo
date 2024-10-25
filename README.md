@@ -23,8 +23,8 @@ Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplic
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Rosendo&layout=compact&theme=swift&hide_border=true" />
-    <img src= "https://github-readme-stats.vercel.app/api?username=Jorge-Rosendo&theme=swift&show_icons=true" />
+   <img src= "https://github-readme-stats.vercel.app/api?username=Jorge-Rosendo&theme=algolia&show_icons=true" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Rosendo&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
   <hr>
