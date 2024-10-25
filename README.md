@@ -20,7 +20,12 @@ Tenho uma forte paixão por garantir o sucesso de tarefas que confiam a mim, ide
 
 Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplicar e expandir meus conhecimentos em testes manuais e automatizados, contribuindo para a entrega de software de alta qualidade.
 </h4>
-<hr>  
+<hr>
+
+<p align="center">
+[Jorge Rosendo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
+</p>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Rosendo&layout=compact&theme=swift&hide_border=true" />
 </p>
