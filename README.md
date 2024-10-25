@@ -23,12 +23,13 @@ Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplic
 <hr>
 
 <p align="center">
-[Jorge Rosendo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Rosendo&layout=compact&theme=swift&hide_border=true" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Rosendo&layout=compact&theme=swift&hide_border=true" />
+<img src= "https://github-readme-stats.vercel.app/api/top-langs?username=Jorge-Rosendo&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" />
 </p>
+
   <hr>
 <h3 align="center">Tecnologias de Desenvolvimento que tenho aptidão:</h3> 
 <p align="center">
