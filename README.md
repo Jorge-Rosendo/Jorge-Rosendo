@@ -11,7 +11,9 @@
 </p>
 <hr>
 <h4 align="center">
- Estou iniciando minha jornada na área de Quality Assurance (QA) com o objetivo de me tornar um QA Engineer. 
+ Estou iniciando minha jornada na área de Quality Assurance (QA) com o objetivo de me tornar um QA Engineer.
+</h4> 
+<h4 align="center">
  Atualmente, estou me dedicando ao estudo de testes de software, controle de qualidade e automação de testes, aprendendo ferramentas como Cypress.
 
 Tenho uma forte paixão por garantir o sucesso de tarefas que confiam a mim, identificando e corrigindo erros que possam comprometer o desempenho. Sou curioso e detalhista, na TI estou sempre buscando entender o funcionamento de sistemas e encontrar maneiras de otimizá-los.
@@ -20,7 +22,7 @@ Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplic
 </h4>
 <hr>  
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosendo-dev&layout=compact&theme=swift&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Rosendo&layout=compact&theme=swift&hide_border=true" />
 </p>
   <hr>
 <h3 align="center">Tecnologias de Desenvolvimento que tenho aptidão:</h3> 
