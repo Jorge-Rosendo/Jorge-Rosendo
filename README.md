@@ -40,7 +40,7 @@ Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplic
     <img alt="React" src="https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=react&logoColor=babyblue%22"/> 
     <img alt="NextJs" src="https://img.shields.io/badge/Next.Js-black.svg?style=for-the-badge&logo=next.js&logoColor=white"/> 
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=lightgreen"/>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%E3%85%A4Studio%E3%85%A4Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
     <img alt="Sass" src="https://img.shields.io/badge/Sass-c76193?style=for-the-badge&logo=sass&logoColor=white"/>
