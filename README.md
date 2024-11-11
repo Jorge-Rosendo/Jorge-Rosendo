@@ -30,7 +30,8 @@ Minha meta de carreira é trabalhar em uma equipe colaborativa, onde possa aplic
   <hr>
 <h3 align="center">Tecnologias de Desenvolvimento que tenho aptidão:</h3> 
 <p align="center">
-    <img alt="Cypress" src="https://img.shields.io/badge/cypress-lightblue.svg?style=for-the-badge&logo=jest&logoColor=black"/>
+    <img alt="Cypress" src="https://img.shields.io/badge/cypress-lightblue.svg?style=for-the-badge&logo=cypress&logoColor=black"/>
+    <img alt="Robot-Framework" src="https://img.shields.io/badge/robot%E3%85%A4framework-white.svg?style=for-the-badge&logo=robotframework&logoColor=black"/>
     <img alt="Jest" src="https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
